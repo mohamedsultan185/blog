@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "vscode-icons-team.vscode-icons",
+        "streetsidesoftware.code-spell-checker",
+        "editorconfig.editorconfig",
+        "esbenp.prettier-vscode",
+        "formulahendry.auto-rename-tag",
+        "formulahendry.auto-close-tag",
+        "tabnine.tabnine-vscode"
+    ]
+}
